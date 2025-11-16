@@ -1,3 +1,4 @@
+
 # Project Samarth – Intelligent Q&A System for Agricultural Data
 
 Project Samarth is a simple question–answering system that lets users ask
@@ -72,4 +73,8 @@ streamlit run src/app.py
 Project built as part of my learning journey in data analysis + Python.
 
 
+
+=======
+# samarth-qnabot
+Intelligent Q&amp;A system for agricultural data using Python and Streamlit.
 
